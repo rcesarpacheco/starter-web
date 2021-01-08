@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is a very simple website.
+Adding a line for a rebase example.
 
 ## Purpose
 
