@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a very simple website.
-Adding a line for a rebase example.
+Adding a line for a rebase example, then more changes from myferature change too.
 
 ## Purpose
 
